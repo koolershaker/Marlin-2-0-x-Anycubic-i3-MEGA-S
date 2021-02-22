@@ -194,8 +194,8 @@
  */
 #define KNUTWURST_PRHEAT_NOZZLE_PLA 200
 #define KNUTWURST_PRHEAT_BED_PLA     60
-#define KNUTWURST_PRHEAT_NOZZLE_ABS 240
-#define KNUTWURST_PRHEAT_BED_ABS     90
+#define KNUTWURST_PRHEAT_NOZZLE_ABS 255
+#define KNUTWURST_PRHEAT_BED_ABS    120
 
 
 //===========================================================================
